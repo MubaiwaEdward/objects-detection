@@ -1,6 +1,5 @@
 streamlit==0.82.0
 pandas==1.2.4
-opencv-contrib-python==4.5.2.52
 opencv-python==4.5.2.52
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
