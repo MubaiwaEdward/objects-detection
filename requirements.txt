@@ -1,6 +1,6 @@
 streamlit==0.82.0
 pandas==1.2.4
-opencv-python==4.5.2.52
+opencv-python==3.3.0.10
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
 Pillow==8.2.0
