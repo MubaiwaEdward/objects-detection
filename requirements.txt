@@ -1,4 +1,4 @@
-python=3.8.5=h5fd99cc_1
+python=3.8.5
 streamlit==0.82.0
 pandas==1.2.4
 opencv-python==4.5.2.54
